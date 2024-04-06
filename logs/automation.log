@@ -1,0 +1,22 @@
+18:37:09.895 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+18:37:10.690 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+18:37:10.693 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+18:37:11.674 [main] INFO  testCases.TC_002_LoginTest - clicked on ligin button..
+18:37:11.711 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+18:47:08.170 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\workspace\Newstart\Opencart\final.xml"
+18:47:11.780 [main] INFO  testCases.Tc_001_AccountRegistrationTest - **** starting TC_001_AccountRegistrationTest  *****
+18:47:11.780 [main] DEBUG testCases.Tc_001_AccountRegistrationTest - application logs started......
+18:47:11.878 [main] INFO  testCases.Tc_001_AccountRegistrationTest - Clicked on MyAccount link
+18:47:12.586 [main] INFO  testCases.Tc_001_AccountRegistrationTest - Clicked on Register link
+18:47:12.586 [main] INFO  testCases.Tc_001_AccountRegistrationTest - Entering customer details.. 
+18:47:16.039 [main] INFO  testCases.Tc_001_AccountRegistrationTest - clicked on continue..
+18:47:16.086 [main] INFO  testCases.Tc_001_AccountRegistrationTest - Validating expected message..
+18:47:16.096 [main] DEBUG testCases.Tc_001_AccountRegistrationTest - application logs end.......
+18:47:16.096 [main] INFO  testCases.Tc_001_AccountRegistrationTest - **** finished TC_001_AccountRegistrationTest  *****
+18:47:18.471 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+18:47:18.471 [main] DEBUG testCases.TC_002_LoginTest - capturing application debug logs....
+18:47:18.561 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+18:47:19.415 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+18:47:19.421 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+18:47:20.337 [main] INFO  testCases.TC_002_LoginTest - clicked on ligin button..
+18:47:20.401 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
